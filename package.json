@@ -1,0 +1,12 @@
+{
+  "name": "ScoutingApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cdlpvp/-girlboss",
+  "author": "teo67 <teogerst@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
